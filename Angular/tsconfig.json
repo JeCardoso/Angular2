@@ -1,0 +1,8 @@
+{
+    //Ctrl espaço CompilerOptions gera essa opção, dentro usa ctrl espaço tmb
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "sourceMap": true
+    }
+}
